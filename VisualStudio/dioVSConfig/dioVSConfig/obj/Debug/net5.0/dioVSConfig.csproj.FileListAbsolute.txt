@@ -1,0 +1,16 @@
+C:\workspace\Dio-desafio-github\VisualStudio\dioVSConfig\dioVSConfig\bin\Debug\net5.0\dioVSConfig.exe
+C:\workspace\Dio-desafio-github\VisualStudio\dioVSConfig\dioVSConfig\bin\Debug\net5.0\dioVSConfig.deps.json
+C:\workspace\Dio-desafio-github\VisualStudio\dioVSConfig\dioVSConfig\bin\Debug\net5.0\dioVSConfig.runtimeconfig.json
+C:\workspace\Dio-desafio-github\VisualStudio\dioVSConfig\dioVSConfig\bin\Debug\net5.0\dioVSConfig.runtimeconfig.dev.json
+C:\workspace\Dio-desafio-github\VisualStudio\dioVSConfig\dioVSConfig\bin\Debug\net5.0\dioVSConfig.dll
+C:\workspace\Dio-desafio-github\VisualStudio\dioVSConfig\dioVSConfig\bin\Debug\net5.0\ref\dioVSConfig.dll
+C:\workspace\Dio-desafio-github\VisualStudio\dioVSConfig\dioVSConfig\bin\Debug\net5.0\dioVSConfig.pdb
+C:\workspace\Dio-desafio-github\VisualStudio\dioVSConfig\dioVSConfig\obj\Debug\net5.0\dioVSConfig.csproj.AssemblyReference.cache
+C:\workspace\Dio-desafio-github\VisualStudio\dioVSConfig\dioVSConfig\obj\Debug\net5.0\dioVSConfig.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\Dio-desafio-github\VisualStudio\dioVSConfig\dioVSConfig\obj\Debug\net5.0\dioVSConfig.AssemblyInfoInputs.cache
+C:\workspace\Dio-desafio-github\VisualStudio\dioVSConfig\dioVSConfig\obj\Debug\net5.0\dioVSConfig.AssemblyInfo.cs
+C:\workspace\Dio-desafio-github\VisualStudio\dioVSConfig\dioVSConfig\obj\Debug\net5.0\dioVSConfig.csproj.CoreCompileInputs.cache
+C:\workspace\Dio-desafio-github\VisualStudio\dioVSConfig\dioVSConfig\obj\Debug\net5.0\dioVSConfig.dll
+C:\workspace\Dio-desafio-github\VisualStudio\dioVSConfig\dioVSConfig\obj\Debug\net5.0\ref\dioVSConfig.dll
+C:\workspace\Dio-desafio-github\VisualStudio\dioVSConfig\dioVSConfig\obj\Debug\net5.0\dioVSConfig.pdb
+C:\workspace\Dio-desafio-github\VisualStudio\dioVSConfig\dioVSConfig\obj\Debug\net5.0\dioVSConfig.genruntimeconfig.cache
