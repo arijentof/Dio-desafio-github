@@ -1,0 +1,6 @@
+git add - inicia repositório git
+git commit - commita git
+git status - verifica diferença do respositório para local
+mkdir - cria pasta
+cd - acessa pasta
+cd .. - retrocede pasta
